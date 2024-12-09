@@ -6,10 +6,10 @@ const Hero = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center space-y-8">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-down bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-300">
-            Sustainable Energy Solutions
+            Artistry Meets Efficiency:
           </h1>
           <p className="text-xl md:text-2xl text-gray-400 mb-8 max-w-3xl mx-auto animate-fade-up">
-            Powering the future with innovative and eco-friendly technology
+            Shine Smarter, Work Better
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
